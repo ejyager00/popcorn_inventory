@@ -3,13 +3,10 @@
 These are the deliverables for a project completed for [Simply Amazing Market](https://www.simplyamazingmarket.com/). Some code has been redacted due to a non-disclosure agreement to protect the business intelligence of Simply Amazing Market.
 
 ## Team Members
-[Eric Yager](https://github.com/ejyager00)
-
-[Katelyn Bacys](https://github.com/kbacys)
-
-[Christopher Barua](https://github.com/chrbarua)
-
-[Joshua Nibbe](https://github.com/jn1bbe)
+* [Eric Yager](https://github.com/ejyager00)
+* [Katelyn Bacys](https://github.com/kbacys)
+* [Christopher Barua](https://github.com/chrbarua)
+* [Joshua Nibbe](https://github.com/jn1bbe)
 
 ### Faculty Advisor 
 [Jon Beagley](https://www.valpo.edu/mathematics-statistics/about-us/faculty/jon-beagley/)
