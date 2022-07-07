@@ -4,8 +4,11 @@ These are the deliverables for a project completed for [Simply Amazing Market](h
 
 ## Team Members
 [Eric Yager](https://github.com/ejyager00)
+
 [Katelyn Bacys](https://github.com/kbacys)
+
 [Christopher Barua](https://github.com/chrbarua)
+
 [Joshua Nibbe](https://github.com/jn1bbe)
 
 ### Faculty Advisor 
